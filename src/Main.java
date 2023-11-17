@@ -58,7 +58,7 @@ public class Main {
                 }
                 case (5) -> {
                     condiction=false;
-                    JOptionPane.showMessageDialog(null, "Operação encerrada!");
+                    JOptionPane.showMessageDialog(null, "Operação encerrada, até logo!");
                 }
 
 
