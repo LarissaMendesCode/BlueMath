@@ -5,7 +5,7 @@ import javax.swing.*;
 public class CalculadoraMath1 {
 
     //ATRIBUTOS
-    double numero1, numero2;
+     double numero1, numero2;
     double resultado;
     int operacao;
     boolean condiction = true;
@@ -17,7 +17,7 @@ public class CalculadoraMath1 {
     String msg;
 
 
-//métodos
+//métodos Larissa
     void somar (double resultadosom) {
       resultadosom= numero1+numero2;
       resultado = resultadosom;
@@ -27,6 +27,9 @@ public class CalculadoraMath1 {
 
     }
 
+    //método Matheus
+    public void dividir(double resultado) {
+    }
 }
 
 
